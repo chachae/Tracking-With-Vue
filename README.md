@@ -4,7 +4,7 @@
 ![https://img.shields.io/badge/vue-2.6.10-orange.svg?style=flat-square](https://img.shields.io/badge/vue-2.6.10-orange.svg?style=flat-square)
 ![https://tokei.rs/b1/github/chachae/face-tracking?category=lines](https://tokei.rs/b1/github/chachae/face-tracking?category=lines)
 
-一个简单的基于 trakcing.js 实现的人脸识别案例，使用 vue-cli 完成本案例。 由于百度上的案例实在不多，能找到的案例功能实现残缺基本不符合预期，GayHub 上的 Demo 试了几个都有不能关闭摄像头的问题，且 trakcing 自带的摄像头关闭方法也并不好事，故重新写了一个。
+一个简单的基于 trakcing.js 实现的人脸识别案例，使用 vue-cli 完成本案例。 由于百度上的案例实在不多，能找到的案例功能实现残缺基本不符合预期，GayHub 上的 Demo 试了几个都有不能关闭摄像头的问题，且 trakcing 自带的摄像头关闭方法也并不好事，故重新写了一个，域名需要配置 https 协议或者在本地使用。
 
 ### 功能实现
 - [x] 自动人脸识别
